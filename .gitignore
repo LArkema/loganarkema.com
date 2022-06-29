@@ -1,0 +1,4 @@
+# Ignore files with draft posts, live site rendering, and vscode settings
+old-and-dev/
+_site/
+.vscode
